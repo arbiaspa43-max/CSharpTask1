@@ -1,0 +1,15 @@
+/workspaces/CSharpTask1/myprogram/bin/Debug/net8.0/myprogram
+/workspaces/CSharpTask1/myprogram/bin/Debug/net8.0/myprogram.deps.json
+/workspaces/CSharpTask1/myprogram/bin/Debug/net8.0/myprogram.runtimeconfig.json
+/workspaces/CSharpTask1/myprogram/bin/Debug/net8.0/myprogram.dll
+/workspaces/CSharpTask1/myprogram/bin/Debug/net8.0/myprogram.pdb
+/workspaces/CSharpTask1/myprogram/obj/Debug/net8.0/myprogram.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharpTask1/myprogram/obj/Debug/net8.0/myprogram.AssemblyInfoInputs.cache
+/workspaces/CSharpTask1/myprogram/obj/Debug/net8.0/myprogram.AssemblyInfo.cs
+/workspaces/CSharpTask1/myprogram/obj/Debug/net8.0/myprogram.csproj.CoreCompileInputs.cache
+/workspaces/CSharpTask1/myprogram/obj/Debug/net8.0/myprogram.sourcelink.json
+/workspaces/CSharpTask1/myprogram/obj/Debug/net8.0/myprogram.dll
+/workspaces/CSharpTask1/myprogram/obj/Debug/net8.0/refint/myprogram.dll
+/workspaces/CSharpTask1/myprogram/obj/Debug/net8.0/myprogram.pdb
+/workspaces/CSharpTask1/myprogram/obj/Debug/net8.0/myprogram.genruntimeconfig.cache
+/workspaces/CSharpTask1/myprogram/obj/Debug/net8.0/ref/myprogram.dll
